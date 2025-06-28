@@ -1,4 +1,3 @@
-
 -- vim default config options
 
 vim.cmd("set expandtab")
