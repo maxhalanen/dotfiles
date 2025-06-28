@@ -1,0 +1,27 @@
+# Basic directory listing aliases
+alias ll='lsd -lh --color=auto'        # Long listing with human-readable sizes and colors
+alias la='lsd -lhaF --color=auto'       # Show all files including hidden, long listing
+alias ls='lsd'
+alias lst='lsd --tree -l'
+
+
+# Git shortcuts
+alias gs='git status'
+alias ga='git add'
+alias gc='git commit'
+alias gp='git push'
+alias gl='git log --oneline --graph --decorate'
+
+# Navigation
+alias ..='cd ..'
+alias ...='cd ../..'
+
+# Safety net for common commands
+alias rm='rm -i'                      # Prompt before removing files
+alias cp='cp -i'                      # Prompt before copying
+alias mv='mv -i'                      # Prompt before moving
+
+# Quick edit config
+alias ealiases='nvim ~/.config/shell/alias'
+alias evars='nvim ~/.config/shell/vars'
+
