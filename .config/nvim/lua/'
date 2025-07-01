@@ -23,8 +23,6 @@ vim.opt.isfname:append("@-@")
 
 vim.g.mapleader = " "
 
-
--- the undodir functionality allows for file undos to perist after closing
 local undodir = vim.fn.stdpath("state") .. "/undodir"
 vim.opt.undodir = undodir
 vim.opt.undofile = true
