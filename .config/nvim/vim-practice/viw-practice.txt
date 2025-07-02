@@ -1,0 +1,13 @@
+
+# Replace words using viw, yiw, diw, ciw
+
+
+item1item1::ds::dd::no:: <>
+
+item1item1::ds::dd::no:: <>
+
+item1item1::ds::dd::no:: <>
+
+delete::this::text::and::put::it::in::the:braces ()
+
+I will write a sentance here to do an example --> {}

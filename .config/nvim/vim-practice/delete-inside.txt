@@ -1,0 +1,22 @@
+
+
+
+
+x = [1, 2, 3, 4, 5, 6]
+
+for i in range(len(x))
+
+
+
+str1 = "delete me" "delete"
+
+
+
+dict = {1:1, 2:2, 3:3}
+
+
+
+
+
+
+
