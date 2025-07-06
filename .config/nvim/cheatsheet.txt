@@ -1,0 +1,8 @@
+
+Cheatsheet for NVIM setup
+
+
+
+
+
+
