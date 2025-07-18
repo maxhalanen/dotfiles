@@ -2,7 +2,30 @@
 Cheatsheet for NVIM setup
 
 
+#general commands
+<C-w>c     - close window (works on tonnes of stuff)
+<C-w>w     - change windows (works from file tree to code)
+:Lazy      - package manager access
+:Mason     - manager for LSP, DAP, Linter, Formatter
 
 
+
+#lsp-config.lua  LSP configuration
+
+<leader>ca - code action
+K          - hover definition
+gd         - shows where item you are hovering is defined
+
+#neo-tree.lua    Neotree config
+<C-n>      - toggles tree filetree tab
+
+
+#none-ls.lua     None-ls config
+<leader>gf - fixes formatting on a per language basis (you have to add specific
+             langs to the file if you want to use them with <leader>gf)
+
+#telescope.lua   Telescope config
+<C-p>      - file search
+<leader>fg - grep workspace contents
 
 
