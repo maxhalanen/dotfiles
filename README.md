@@ -11,3 +11,7 @@ This repository contains configuration files for various tools and applications 
 ![Hyprland_gif](https://github.com/user-attachments/assets/73e313dd-111c-41bd-bfa2-60ec2b240914)
 
 <img width="1919" height="1079" alt="dotfiles pictures" src="https://github.com/user-attachments/assets/5b489f12-3d66-4794-b48d-5e90dc8ac83b" />
+
+
+https://github.com/user-attachments/assets/4ce99b32-2b25-4823-a5d8-0dc86fa0abdf
+
