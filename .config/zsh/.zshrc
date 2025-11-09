@@ -72,3 +72,6 @@ source ~/.config/zsh/plugins/zsh-autosuggestions/zsh-autosuggestions.zsh
 # syntax highlighting
 source ~/.config/zsh/plugins/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 
+export VERILATOR_ROOT="$HOME/Clones/verilator"
+export PATH="$VERILATOR_ROOT/bin:$PATH"
+
