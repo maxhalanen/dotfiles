@@ -1,6 +1,7 @@
 # My Dotfiles
 
 A collection of my personal dotfiles and configuration for a customized Arch Linux environment with Hyprland Wayland compositor.
+
 # Overview
 
 This repository contains configuration files for various tools and applications I use in my daily workflow. These dotfiles help maintain a consistent development environment across different machines.
