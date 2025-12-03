@@ -1,7 +1,7 @@
 # Created by newuser for 5.9
 
-
 fastfetch
+
 
 # source global shell alias & variables files
 [ -f "$XDG_CONFIG_HOME/shell/alias" ] && source "$XDG_CONFIG_HOME/shell/alias"
@@ -41,7 +41,7 @@ setopt interactive_comments # allow comments in shell
 unsetopt prompt_sp # don't autoclean blanklines
 
 
-# keybinds
+#keybinds
 bindkey -e
 bindkey "^a" beginning-of-line
 bindkey "^e" end-of-line
@@ -50,6 +50,7 @@ bindkey "^k" forward-word
 bindkey "^H" backward-kill-word
 bindkey "^T" transpose-chars
 
+bindkey -v
 # ctrl J & K for going up and down in prev commands
 # bindkey "^J" history-search-forward
 # bindkey "^K" history-search-backward
